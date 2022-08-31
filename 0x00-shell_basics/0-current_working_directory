@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!usr/bin/bash/
 $pwd
+=======
+#!/bin/bash
+echo $pwd
+>>>>>>> 5c42327bcf5b5c46dd5d016cdb5f6158efb3452f
