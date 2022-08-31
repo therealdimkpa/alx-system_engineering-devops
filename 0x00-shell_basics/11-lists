@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(ls -l -a) $(ls -l -a ..) $(ls -l -a /boot)"
+printf "$(ls -l -a) '..:' $(ls -l -a ..) '/boot:' $(ls -l -a /boot)"
